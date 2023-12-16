@@ -1,9 +1,8 @@
-/*
+//question 1
 //Take 2 integer values in two variables x and y and print their product.
 
 #include<iostream>
 using namespace std;
-
 int main(){
     int a,b;
 
@@ -25,9 +24,7 @@ int main(){
 
 }
 
-*/
-
-/*
+//Question 2 
 //- Print the ASCII value of character ‘U’.
 
 #include <iostream>
@@ -43,11 +40,8 @@ int main(){
     return 0;
 }
 
-*/
-
+//Question 3
 //- Write a C++ program to take length and breadth of a rectangle and print its area.
-
-/*
 
 #include<iostream>
 using namespace std;
@@ -63,11 +57,8 @@ int main(){
     return 0;
 }
 
-*/
-
+// question 4
 //- Write a C++ program to calculate the cube of a number.
-
-/*
 
 # include <iostream>
 using namespace std;
@@ -80,11 +71,9 @@ int main(){
     return 0;
 }
 
-*/
-
+//QUESTION 5
 //- Write a C++ program to find size of basic data types.
 
-/*
 #include<iostream>
 using namespace std;
 
@@ -100,12 +89,10 @@ int main(){
     cout<<"The sizeof(bool) : "<<sizeof(bool)<<"bytes"<<endl;
     return 0;
 }
-*/
 
-
+//QUESTION 6
 // - Write a C++ program to swap two numbers with the help of a third variable.
 
-/*
 #include<iostream>
 using namespace std;
 
@@ -125,4 +112,3 @@ int main(){
     cout<<"Value of b before swapping : "<<b<<endl;
     return 0;
 }
-*/
